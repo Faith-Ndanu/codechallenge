@@ -1,8 +1,16 @@
-#form{
+ #body{
+    background-color: rgb(234, 0, 255);
+ }    
+     #form{
     border: solid 1px;
     padding: 20px 20px;
     border-radius: 20px 20px 20px 20px;
+    margin: 0 auto;
     width: 50%;
     text-align: center;
-    background-color: aliceblue;
+    background-color: rgb(24, 204, 36);
+    position: absolute;top:2px;right:2px ;
+    min-height: 100vh;
+    font-size: xx-large;
+    
 }
